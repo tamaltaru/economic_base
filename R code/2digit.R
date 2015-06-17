@@ -1,6 +1,6 @@
 ####################################################################################
-##                  ASSIGNMENT 1        PLANNING  METHODOLOGIES                 ####
-##                  NAME- DEBMALYA SINHA UW STUDENT NO- 1325990                 ####
+##                  Economic Base analysis, U.S &Kings county, CA     c        ####
+##                  NAME- DEBMALYA SINHA   UW STUDENT NO- 1325990              ####
 ####################################################################################
 
 # 2-digit code
