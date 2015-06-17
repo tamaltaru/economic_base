@@ -1,0 +1,52 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,YEAR.id,ESTAB,RCPTOT,PAYANN,EMP,NESTAB,NRCPTOT
+0100000US,,United States,21,"Mining, quarrying, and oil and gas extraction",99,Total,2007,22667,413524731,40687472,730433,101607,9012220
+0100000US,,United States,22,Utilities,99,Total,2007,16578,584192658,51653618,637247,17573,727843
+0100000US,,United States,23,Construction,99,Total,2007,729345,1731841830,331002718,7316240,2657360,159041760
+0100000US,,United States,31-33,Manufacturing,99,Total,2007,332536,5319456312,613768568,13395670,328060,16332595
+0100000US,,United States,42,Wholesale trade,00,Wholesale Trade,2007,434983,6515708554,336206776,6227389,401863,35822540
+0100000US,,United States,42,Wholesale trade,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,369387,4174286516,260532130,5098545,N,N
+0100000US,,United States,42,Wholesale trade,20,Manufacturers' sales branches and offices,2007,20202,1714704527,62309472,840046,N,N
+0100000US,,United States,44-45,Retail trade,99,Total,2007,1128112,3917663456,362818687,15515396,1979576,88142918
+0100000US,,United States,48-49,Transportation and warehousing,99,Total,2007,219706,639916407,173183073,4454383,1083139,66632938
+0100000US,,United States,51,Information,99,Total,2007,141566,1072342856,228836587,3496773,307143,10957788
+0100000US,,United States,52,Finance and insurance,99,Total,2007,501713(r),3669302691(r),502416670(r),6607511(r),763527,54351422
+0100000US,,United States,53,Real estate and rental and leasing,99,Total,2007,384297,485058597,84764864,2188479,2327057,183264078
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,2007,847492,1251003504,502074331,7870414,3028528,130386056
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,2007,842607,1220434086,489965382,7678304,N,N
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,2007,4885,30569418,12108949,192110,N,N
+0100000US,,United States,55,Management of companies and enterprises,99,Total,2007,51451,104442966,249510832,2664203,N,N
+0100000US,,United States,56,Administrative and support and waste management and remediation services,99,Total,2007,395292,630771091,301450047,10250955,1792523,39810944
+0100000US,,United States,61,Educational services,A,All establishments,2007,61385,44980656,14259109,539951,528217,7214509
+0100000US,,United States,61,Educational services,T,Establishments subject to federal income tax,2007,49790,32510659,10571549,407504,N,N
+0100000US,,United States,61,Educational services,Y,Establishments exempt from federal income tax,2007,11595,12469997,3687560,132447,N,N
+0100000US,,United States,62,Health care and social assistance,A,All establishments,2007,784626,1668276808,662719938,16792074,1768093,55050044
+0100000US,,United States,62,Health care and social assistance,T,Establishments subject to federal income tax,2007,647120,818394571,330887727,8322326,N,N
+0100000US,,United States,62,Health care and social assistance,Y,Establishments exempt from federal income tax,2007,137506,849882237,331832211,8469748,N,N
+0100000US,,United States,71,"Arts, entertainment, and recreation",A,All establishments,2007,124620,189416942,58359104,2061348,1119586,27356700
+0100000US,,United States,71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,2007,100656,151957979,45915953,1496869,N,N
+0100000US,,United States,71,"Arts, entertainment, and recreation",Y,Establishments exempt from federal income tax,2007,23964,37458963,12443151,564479,N,N
+0100000US,,United States,72,Accommodation and food services,99,Total,2007,634361,613795732,170826847,11600751,303482,16071088
+0100000US,,United States,81,Other services (except public administration),A,All establishments,2007,540148,405284048,99123269,3479011,2964627,80653086
+0100000US,,United States,81,Other services (except public administration),T,Establishments subject to federal income tax,2007,432302,219837537,66828875,2598622,N,N
+0100000US,,United States,81,Other services (except public administration),Y,Establishments exempt from federal income tax,2007,107846,185446511,32294394,880389,N,N
+0500000US06031,06031,"Kings County, California",31-33,Manufacturing,99,Total,2007,73,2107702,148715,4291,63,6109
+0500000US06031,06031,"Kings County, California",42,Wholesale trade,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,60,D,D,f,N,N
+0500000US06031,06031,"Kings County, California",44-45,Retail trade,99,Total,2007,326,1035901,93854,4267,510,23085
+0500000US06031,06031,"Kings County, California",51,Information,99,Total,2007,21,N,14761,347,25,321
+0500000US06031,06031,"Kings County, California",53,Real estate and rental and leasing,99,Total,2007,95,55372,7172,343,328,17690
+0500000US06031,06031,"Kings County, California",54,"Professional, scientific, and technical services",A,All establishments,2007,101,52875,16886,535,369,12987
+0500000US06031,06031,"Kings County, California",54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,2007,101,52875,16886,535,N,N
+0500000US06031,06031,"Kings County, California",56,Administrative and support and waste management and remediation services,99,Total,2007,54,88880,16629,567,405,10188
+0500000US06031,06031,"Kings County, California",61,Educational services,A,All establishments,2007,14,D,D,c,70,486
+0500000US06031,06031,"Kings County, California",61,Educational services,T,Establishments subject to federal income tax,2007,12,D,D,c,N,N
+0500000US06031,06031,"Kings County, California",61,Educational services,Y,Establishments exempt from federal income tax,2007,2,D,D,a,N,N
+0500000US06031,06031,"Kings County, California",62,Health care and social assistance,A,All establishments,2007,204,433816,153147,4106,709,17106
+0500000US06031,06031,"Kings County, California",62,Health care and social assistance,T,Establishments subject to federal income tax,2007,166,127928,52980,1497,N,N
+0500000US06031,06031,"Kings County, California",62,Health care and social assistance,Y,Establishments exempt from federal income tax,2007,38,305888,100167,2609,N,N
+0500000US06031,06031,"Kings County, California",71,"Arts, entertainment, and recreation",A,All establishments,2007,22,43287,10057,484,D,D
+0500000US06031,06031,"Kings County, California",71,"Arts, entertainment, and recreation",T,Establishments subject to federal income tax,2007,16,D,D,e,N,N
+0500000US06031,06031,"Kings County, California",71,"Arts, entertainment, and recreation",Y,Establishments exempt from federal income tax,2007,6,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",72,Accommodation and food services,99,Total,2007,171,360069,77529,4209,79,5076
+0500000US06031,06031,"Kings County, California",81,Other services (except public administration),A,All establishments,2007,105,46972,13398,582,799,23682
+0500000US06031,06031,"Kings County, California",81,Other services (except public administration),T,Establishments subject to federal income tax,2007,89,40150,10365,395,N,N
+0500000US06031,06031,"Kings County, California",81,Other services (except public administration),Y,Establishments exempt from federal income tax,2007,16,6822,3033,187,N,N

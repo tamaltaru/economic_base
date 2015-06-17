@@ -1,0 +1,33 @@
+NAICS code,NAICS code description,Paid employees for pay period including March 12 (number),"First-quarter payroll($1,000)","Annual payroll($1,000)",Total establishments,,,,,,
+,,,,,,,,,,,
+11----,"  Agriculture, forestry, fishing and hunting                                                        ",678,5066,26721,31,,,,,,
+115,  Support activities for agriculture and forestry                                                   ,678,5066,26721,31,,,,,,
+1151,  Support activities for crop production                                                            ,654,4876,25897,26,,,,,,
+11511,  Support activities for crop production                                                            ,654,4876,25897,26,,,,,,
+115111,  Cotton ginning                                                                                    ,b,D,D,3,,,,,,
+115112,"  Soil preparation, planting, and cultivating                                                       ",124,836,3772,10,,,,,,
+115113,"  Crop harvesting, primarily by machine                                                             ",b,D,D,3,,,,,,
+115114,  Postharvest crop activities (except cotton ginning)                                               ,b,D,D,2,,,,,,
+115115,  Farm labor contractors and crew leaders                                                           ,336,2644,13468,6,,,,,,
+115116,  Farm management services                                                                          ,a,D,D,2,,,,,,
+1152,  Support activities for animal production                                                          ,b,D,D,5,,,,,,
+11521,  Support activities for animal production                                                          ,b,D,D,5,,,,,,
+115210,  Support activities for animal production                                                          ,b,D,D,5,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+ , , ,Number of establishments by employment-size class,,,,,,,,
+Industry code,Industry code description,Total establishments,'1-4','5-9','10-19','20-49','50-99','100-249','250-499','500-999','1000 or more'
+,,,,,,,,,,,
+11----,"  Agriculture, forestry, fishing and hunting                                                        ",31,10,6,5,8,1,1,0,0,0
+115,  Support activities for agriculture and forestry                                                   ,31,10,6,5,8,1,1,0,0,0
+1151,  Support activities for crop production                                                            ,26,6,6,5,7,1,1,0,0,0
+11511,  Support activities for crop production                                                            ,26,6,6,5,7,1,1,0,0,0
+115111,  Cotton ginning                                                                                    ,3,0,1,0,2,0,0,0,0,0
+115112,"  Soil preparation, planting, and cultivating                                                       ",10,2,3,4,1,0,0,0,0,0
+115113,"  Crop harvesting, primarily by machine                                                             ",3,0,1,1,0,1,0,0,0,0
+115114,  Postharvest crop activities (except cotton ginning)                                               ,2,1,0,0,1,0,0,0,0,0
+115115,  Farm labor contractors and crew leaders                                                           ,6,1,1,0,3,0,1,0,0,0
+115116,  Farm management services                                                                          ,2,2,0,0,0,0,0,0,0,0
+1152,  Support activities for animal production                                                          ,5,4,0,0,1,0,0,0,0,0
+11521,  Support activities for animal production                                                          ,5,4,0,0,1,0,0,0,0,0
+115210,  Support activities for animal production                                                          ,5,4,0,0,1,0,0,0,0,0

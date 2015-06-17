@@ -1,0 +1,448 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,YEAR.id,ESTAB,RCPTOT,PAYANN,EMP,NESTAB,NRCPTOT
+0100000US,,United States,2111,Oil and gas extraction,99,Total,2007,6260,255104849,9593816,150443,82772,7371161
+0100000US,,United States,2121,Coal mining,99,Total,2007,1034,34261466,4767887,77435,1215,75374
+0100000US,,United States,2122,Metal ore mining,99,Total,2007,250,23667448,2355259,35004,913,41225
+0100000US,,United States,2123,Nonmetallic mineral mining and quarrying,99,Total,2007,5188,27926338,4500542,98938,4242,386719
+0100000US,,United States,2131,Support activities for mining,99,Total,2007,9935,72564630,19469968,368613,12465,1137741
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",99,Total,2007,9554,445693484,43618314,511487,N,N
+0100000US,,United States,2212,Natural gas distribution,99,Total,2007,2377,128555017,6037623,83369,N,N
+0100000US,,United States,2213,"Water, sewage and other systems",99,Total,2007,4647,9944157,1997681,42391,N,N
+0100000US,,United States,3111,Animal food manufacturing,99,Total,2007,1767,39173885,1976192,46227,1407,73129
+0100000US,,United States,3112,Grain and oilseed milling,99,Total,2007,790,69754889,2727918,53290,359,29517
+0100000US,,United States,3113,Sugar and confectionery product manufacturing,99,Total,2007,1841,27278079,2774270,69403,2070,53249
+0100000US,,United States,3114,Fruit and vegetable preserving and specialty food manufacturing,99,Total,2007,1610,60704784,6089456,172034,2707,114143
+0100000US,,United States,3115,Dairy product manufacturing,99,Total,2007,1584,91583690,5700094,131375,1105,58192
+0100000US,,United States,3116,Animal slaughtering and processing,99,Total,2007,3773,160062535,14694437,503590,2364,95682
+0100000US,,United States,3117,Seafood product preparation and packaging,99,Total,2007,652,11072868,1161165,38968,1303,88230
+0100000US,,United States,3118,Bakeries and tortilla manufacturing,99,Total,2007,10312,55486846,8917212,283899,10432,382527
+0100000US,,United States,3119,Other food manufacturing,99,Total,2007,3287,74608038,6347178,165452,8296,322719
+0100000US,,United States,3121,Beverage manufacturing,99,Total,2007,3717,87919826,6197909,134480,N,N
+0100000US,,United States,3122,Tobacco manufacturing,99,Total,2007,102,40210981,1172598,19322,N,N
+0100000US,,United States,3131,"Fiber, yarn, and thread mills",99,Total,2007,423,9319116,1176588,40994,N,N
+0100000US,,United States,3132,Fabric mills,99,Total,2007,1277,17599987,2640155,73451,N,N
+0100000US,,United States,3133,Textile and fabric finishing and fabric coating mills,99,Total,2007,1272,9211647,1469974,43456,N,N
+0100000US,,United States,3141,Textile furnishings mills,99,Total,2007,2553,18639885,2163550,75879,N,N
+0100000US,,United States,3149,Other textile product mills,99,Total,2007,4141,10042279,2111773,71493,N,N
+0100000US,,United States,3151,Apparel knitting mills,99,Total,2007,413,2973575,538271,20454,N,N
+0100000US,,United States,3152,Cut and sew apparel manufacturing,99,Total,2007,7382,19230907,3246126,135052,N,N
+0100000US,,United States,3159,Apparel accessories and other apparel manufacturing,99,Total,2007,723,1421756,335361,13469,N,N
+0100000US,,United States,3161,Leather and hide tanning and finishing,99,Total,2007,239,1418166,162953,4467,1323,35918
+0100000US,,United States,3162,Footwear manufacturing,99,Total,2007,257,1744425,373585,12931,744,26952
+0100000US,,United States,3169,Other leather and allied product manufacturing,99,Total,2007,804,2293266,471818,16567,3107,104683
+0100000US,,United States,3211,Sawmills and wood preservation,99,Total,2007,4102,27911240,3642165,103413,N,N
+0100000US,,United States,3212,"Veneer, plywood, and engineered wood product manufacturing",99,Total,2007,1956,22023577,3790727,106093,N,N
+0100000US,,United States,3219,Other wood product manufacturing,99,Total,2007,10810,51777100,9993940,314393,N,N
+0100000US,,United States,3221,"Pulp, paper, and paperboard mills",99,Total,2007,486,80550214,7925398,125483,N,N
+0100000US,,United States,3222,Converted paper product manufacturing,99,Total,2007,4502,96137427,12933371,292758,N,N
+0100000US,,United States,3231,Printing and related support activities,99,Total,2007,33817,103018470,25757320,646183,29550,1530959
+0100000US,,United States,3241,Petroleum and coal products manufacturing,99,Total,2007,2283,615484030,8508950,105775,1883,120352
+0100000US,,United States,3251,Basic chemical manufacturing,99,Total,2007,2484,226129195,10585682,152995,843,48892
+0100000US,,United States,3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",99,Total,2007,1338,100865467,5720248,96485,436,31700
+0100000US,,United States,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",99,Total,2007,904,29155483,1552680,27838,588,38976
+0100000US,,United States,3254,Pharmaceutical and medicine manufacturing,99,Total,2007,2010,188399027,18330441,248400,1482,68771
+0100000US,,United States,3255,"Paint, coating, and adhesive manufacturing",99,Total,2007,1970,34070322,3381463,64619,1817,92706
+0100000US,,United States,3256,"Soap, cleaning compound, and toilet preparation manufacturing",99,Total,2007,2281,91345632,5546508,106571,2530,72443
+0100000US,,United States,3259,Other chemical product and preparation manufacturing,99,Total,2007,2802,46187347,5117741,103442,2177,154872
+0100000US,,United States,3261,Plastics product manufacturing,99,Total,2007,12136,170467731,26321024,700000,N,N
+0100000US,,United States,3262,Rubber product manufacturing,99,Total,2007,2211,38867810,6550857,148708,N,N
+0100000US,,United States,3271,Clay product and refractory manufacturing,99,Total,2007,1486,8657985,1868449,47868,3051,61206
+0100000US,,United States,3272,Glass and glass product manufacturing,99,Total,2007,2078,23338253,4261664,98897,3203,113845
+0100000US,,United States,3273,Cement and concrete product manufacturing,99,Total,2007,10090,67211990,9717274,232444,1761,119309
+0100000US,,United States,3274,Lime and gypsum product manufacturing,99,Total,2007,346,7603129,854716,16202,128,5838
+0100000US,,United States,3279,Other nonmetallic mineral product manufacturing,99,Total,2007,3557,21167227,3585158,83137,1923,109564
+0100000US,,United States,3311,Iron and steel mills and ferroalloy manufacturing,99,Total,2007,372,101608658,7236801,108456,N,N
+0100000US,,United States,3312,Steel product manufacturing from purchased steel,99,Total,2007,624,22942843,2208872,48571,N,N
+0100000US,,United States,3313,Alumina and aluminum production and processing,99,Total,2007,578,41807527,3053577,61296,N,N
+0100000US,,United States,3314,Nonferrous metal (except aluminum) production and processing,99,Total,2007,1007,57460792,3366021,65372,N,N
+0100000US,,United States,3315,Foundries,99,Total,2007,2139,33031235,6790191,155130,N,N
+0100000US,,United States,3321,Forging and stamping,99,Total,2007,2767,33510549,5604853,126543,N,N
+0100000US,,United States,3322,Cutlery and handtool manufacturing,99,Total,2007,1513,11009493,2248122,50716,N,N
+0100000US,,United States,3323,Architectural and structural metals manufacturing,99,Total,2007,14225,91084021,16965097,425073,N,N
+0100000US,,United States,3324,"Boiler, tank, and shipping container manufacturing",99,Total,2007,1560,31703765,4491298,92658,N,N
+0100000US,,United States,3325,Hardware manufacturing,99,Total,2007,777,9587447,1646806,39347,N,N
+0100000US,,United States,3326,Spring and wire product manufacturing,99,Total,2007,1580,9603058,1898072,50455,N,N
+0100000US,,United States,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",99,Total,2007,25446,60974464,17064499,403174,N,N
+0100000US,,United States,3328,"Coating, engraving, heat treating, and allied activities",99,Total,2007,6178,26619757,5301808,140423,N,N
+0100000US,,United States,3329,Other fabricated metal product manufacturing,99,Total,2007,6849,71074121,12488576,283586,N,N
+0100000US,,United States,3331,"Agriculture, construction, and mining machinery manufacturing",99,Total,2007,3038,88479308,9752589,206734,N,N
+0100000US,,United States,3332,Industrial machinery manufacturing,99,Total,2007,3963,39639675,7755021,137511,N,N
+0100000US,,United States,3333,Commercial and service industry machinery manufacturing,99,Total,2007,2166,22941141,4194719,87687,N,N
+0100000US,,United States,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",99,Total,2007,1860,40503880,5902959,148879,N,N
+0100000US,,United States,3335,Metalworking machinery manufacturing,99,Total,2007,7902,28970062,8411308,168517,N,N
+0100000US,,United States,3336,"Engine, turbine, and power transmission equipment manufacturing",99,Total,2007,997,42102649,5083663,101428,N,N
+0100000US,,United States,3339,Other general purpose machinery manufacturing,99,Total,2007,6489,87862770,15054727,302097,N,N
+0100000US,,United States,3341,Computer and peripheral equipment manufacturing,99,Total,2007,1294,65389337,5410967,90670,N,N
+0100000US,,United States,3342,Communications equipment manufacturing,99,Total,2007,1789,65414870,9450090,145490,N,N
+0100000US,,United States,3343,Audio and video equipment manufacturing,99,Total,2007,492,7550485,743946,16318,N,N
+0100000US,,United States,3344,Semiconductor and other electronic component manufacturing,99,Total,2007,4848,122719738,20049972,371623,N,N
+0100000US,,United States,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",99,Total,2007,5360,128205631,28996175,407741,N,N
+0100000US,,United States,3346,Manufacturing and reproducing magnetic and optical media,99,Total,2007,819,6448935,1339948,29266,N,N
+0100000US,,United States,3351,Electric lighting equipment manufacturing,99,Total,2007,1216,13822061,2370782,58211,N,N
+0100000US,,United States,3352,Household appliance manufacturing,99,Total,2007,337,23293741,2449770,64427,N,N
+0100000US,,United States,3353,Electrical equipment manufacturing,99,Total,2007,2415,42007902,6659447,144618,N,N
+0100000US,,United States,3359,Other electrical equipment and component manufacturing,99,Total,2007,2318,50056367,7268116,157702,N,N
+0100000US,,United States,3361,Motor vehicle manufacturing,99,Total,2007,379,258204960,13355573,179362,N,N
+0100000US,,United States,3362,Motor vehicle body and trailer manufacturing,99,Total,2007,2215,36255825,5575070,145863,N,N
+0100000US,,United States,3363,Motor vehicle parts manufacturing,99,Total,2007,5742,206240940,28209409,584440,N,N
+0100000US,,United States,3364,Aerospace product and parts manufacturing,99,Total,2007,1706,177562553,29816048,441418,N,N
+0100000US,,United States,3365,Railroad rolling stock manufacturing,99,Total,2007,240,13216839,1580531,29222,N,N
+0100000US,,United States,3366,Ship and boat building,99,Total,2007,1791,29207356,6711641,151736,N,N
+0100000US,,United States,3369,Other transportation equipment manufacturing,99,Total,2007,998,25258911,2265123,47509,N,N
+0100000US,,United States,3371,Household and institutional furniture and kitchen cabinet manufacturing,99,Total,2007,16355,48024336,10452978,332447,N,N
+0100000US,,United States,3372,Office furniture (including fixtures) manufacturing,99,Total,2007,4357,26690119,5626571,139707,N,N
+0100000US,,United States,3379,Other furniture related product manufacturing,99,Total,2007,1034,10334724,1475024,41753,N,N
+0100000US,,United States,3391,Medical equipment and supplies manufacturing,99,Total,2007,12214,78834755,15528974,317894,5999,381043
+0100000US,,United States,3399,Other miscellaneous manufacturing,99,Total,2007,20019,70078626,13518475,346643,63668,2781724
+0100000US,,United States,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,00,Wholesale Trade,2007,26905,670929730,17520941,393094,16944,2444368
+0100000US,,United States,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,26125,341227629,15530842,364029,N,N
+0100000US,,United States,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,20,Manufacturers' sales branches and offices,2007,780,329702101,1990099,29065,N,N
+0100000US,,United States,4232,Furniture and home furnishing merchant wholesalers,00,Wholesale Trade,2007,14494,92477537,8111912,175451,15317,1258682
+0100000US,,United States,4232,Furniture and home furnishing merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,14180,69112141,7341735,162163,N,N
+0100000US,,United States,4232,Furniture and home furnishing merchant wholesalers,20,Manufacturers' sales branches and offices,2007,314,23365396,770177,13288,N,N
+0100000US,,United States,4233,Lumber and other construction materials merchant wholesalers,00,Wholesale Trade,2007,19662,171361045,12801138,280014,8817,1016707
+0100000US,,United States,4233,Lumber and other construction materials merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,17781,126543709,11030415,244326,N,N
+0100000US,,United States,4233,Lumber and other construction materials merchant wholesalers,20,Manufacturers' sales branches and offices,2007,1881,44817336,1770723,35688,N,N
+0100000US,,United States,4234,Professional and commercial equipment and supplies merchant wholesalers,00,Wholesale Trade,2007,35735,485743249,54327009,757457,10755,1121155
+0100000US,,United States,4234,Professional and commercial equipment and supplies merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,32696,354303801,36697130,556235,N,N
+0100000US,,United States,4234,Professional and commercial equipment and supplies merchant wholesalers,20,Manufacturers' sales branches and offices,2007,3039,131439448,17629879,201222,N,N
+0100000US,,United States,4235,Metal and mineral (except petroleum) merchant wholesalers,00,Wholesale Trade,2007,11310,227048447,9322139,165857,3241,503901
+0100000US,,United States,4235,Metal and mineral (except petroleum) merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,10567,165860496,8206521,148574,N,N
+0100000US,,United States,4235,Metal and mineral (except petroleum) merchant wholesalers,20,Manufacturers' sales branches and offices,2007,743,61187951,1115618,17283,N,N
+0100000US,,United States,4236,Electrical and electronic goods merchant wholesalers,00,Wholesale Trade,2007,31088,453030209,38015640,508041,10948,1281971
+0100000US,,United States,4236,Electrical and electronic goods merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,29610,348959682,30416462,441014,N,N
+0100000US,,United States,4236,Electrical and electronic goods merchant wholesalers,20,Manufacturers' sales branches and offices,2007,1478,104070527,7599178,67027,N,N
+0100000US,,United States,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",00,Wholesale Trade,2007,20707,132258552,12400317,248172,5157,541168
+0100000US,,United States,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,20103,112204851,11359966,231153,N,N
+0100000US,,United States,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",20,Manufacturers' sales branches and offices,2007,604,20053701,1040351,17019,N,N
+0100000US,,United States,4238,"Machinery, equipment, and supplies merchant wholesalers",00,Wholesale Trade,2007,60839,429558998,38764729,743510,19750,2703030
+0100000US,,United States,4238,"Machinery, equipment, and supplies merchant wholesalers",10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,58310,328820009,34775990,684107,N,N
+0100000US,,United States,4238,"Machinery, equipment, and supplies merchant wholesalers",20,Manufacturers' sales branches and offices,2007,2529,100738989,3988739,59403,N,N
+0100000US,,United States,4239,Miscellaneous durable goods merchant wholesalers,00,Wholesale Trade,2007,34235,235683865,15555366,347209,110784,8932673
+0100000US,,United States,4239,Miscellaneous durable goods merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,34043,227435392,15033158,340091,N,N
+0100000US,,United States,4239,Miscellaneous durable goods merchant wholesalers,20,Manufacturers' sales branches and offices,2007,192,8248473,522208,7118,N,N
+0100000US,,United States,4241,Paper and paper product merchant wholesalers,00,Wholesale Trade,2007,12095,139600793,8791756,179656,7173,565079
+0100000US,,United States,4241,Paper and paper product merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,11366,91263644,7224673,145717,N,N
+0100000US,,United States,4241,Paper and paper product merchant wholesalers,20,Manufacturers' sales branches and offices,2007,729,48337149,1567083,33939,N,N
+0100000US,,United States,4242,Drugs and druggists' sundries merchant wholesalers,00,Wholesale Trade,2007,8535,562328335,19540671,259412,2942,234006
+0100000US,,United States,4242,Drugs and druggists' sundries merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,8040,351783420,9857347,159693,N,N
+0100000US,,United States,4242,Drugs and druggists' sundries merchant wholesalers,20,Manufacturers' sales branches and offices,2007,495,210544915,9683324,99719,N,N
+0100000US,,United States,4243,"Apparel, piece goods, and notions merchant wholesalers",00,Wholesale Trade,2007,17117,148153988,11563887,231777,23504,1744280
+0100000US,,United States,4243,"Apparel, piece goods, and notions merchant wholesalers",10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,16948,139674113,11317095,227363,N,N
+0100000US,,United States,4243,"Apparel, piece goods, and notions merchant wholesalers",20,Manufacturers' sales branches and offices,2007,169,8479875,246792,4414,N,N
+0100000US,,United States,4244,Grocery and related product merchant wholesalers,00,Wholesale Trade,2007,33794,667142792,34226140,779251,28353,3684027
+0100000US,,United States,4244,Grocery and related product merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,30265,475771226,25812688,606450,N,N
+0100000US,,United States,4244,Grocery and related product merchant wholesalers,20,Manufacturers' sales branches and offices,2007,3529,191371566,8413452,172801,N,N
+0100000US,,United States,4245,Farm product raw material merchant wholesalers,00,Wholesale Trade,2007,6628,145787457,2567065,61138,4578,507620
+0100000US,,United States,4245,Farm product raw material merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,6628,145787457,2567065,61138,N,N
+0100000US,,United States,4246,Chemical and allied products merchant wholesalers,00,Wholesale Trade,2007,13558,182177398,9471195,152877,3871,426698
+0100000US,,United States,4246,Chemical and allied products merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,11778,102257221,6729733,116511,N,N
+0100000US,,United States,4246,Chemical and allied products merchant wholesalers,20,Manufacturers' sales branches and offices,2007,1780,79920177,2741462,36366,N,N
+0100000US,,United States,4247,Petroleum and petroleum products merchant wholesalers,00,Wholesale Trade,2007,7871,764072871,6279228,105104,2327,300925
+0100000US,,United States,4247,Petroleum and petroleum products merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,7097,486908738,5341664,94279,N,N
+0100000US,,United States,4247,Petroleum and petroleum products merchant wholesalers,20,Manufacturers' sales branches and offices,2007,774,277164133,937564,10825,N,N
+0100000US,,United States,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",00,Wholesale Trade,2007,4183,115571062,9026470,180204,3968,358071
+0100000US,,United States,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,4115,103824809,8599609,173370,N,N
+0100000US,,United States,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",20,Manufacturers' sales branches and offices,2007,68,11746253,426861,6834,N,N
+0100000US,,United States,4249,Miscellaneous nondurable goods merchant wholesalers,00,Wholesale Trade,2007,30833,266064715,14555999,370367,75219,5277231
+0100000US,,United States,4249,Miscellaneous nondurable goods merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,29735,202548178,12690037,342332,N,N
+0100000US,,United States,4249,Miscellaneous nondurable goods merchant wholesalers,20,Manufacturers' sales branches and offices,2007,1098,63516537,1865962,28035,N,N
+0100000US,,United States,4251,Wholesale electronic markets and agents and brokers,00,Wholesale Trade,2007,45394,626717511,13365174,288798,48215,2920948
+0100000US,,United States,4411,Automobile dealers,99,Total,2007,51181,753736841,54271140,1268015,101168,14724095
+0100000US,,United States,4412,Other motor vehicle dealers,99,Total,2007,17238,64881628,6017608,170902,37714,3355040
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",99,Total,2007,58360,72418277,12515974,475549,36782,2682412
+0100000US,,United States,4421,Furniture stores,99,Total,2007,28834,58172947,7975034,266374,17847,1199280
+0100000US,,United States,4422,Home furnishings stores,99,Total,2007,36310,50047134,6907599,291103,30703,1915707
+0100000US,,United States,4431,Electronics and appliance stores,99,Total,2007,50803,109014992,11219666,486483,33466,1834409
+0100000US,,United States,4441,Building material and supplies dealers,99,Total,2007,70818,281870986,33571408,1164426,29170,2322480
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,99,Total,2007,20252,36449285,4138583,166896,11597,670921
+0100000US,,United States,4451,Grocery stores,99,Total,2007,90391,487107416,49896890,2551212,47368,4734815
+0100000US,,United States,4452,Specialty food stores,99,Total,2007,24208,15786499,2166623,134695,48274,2925140
+0100000US,,United States,4453,"Beer, wine, and liquor stores",99,Total,2007,31485,36313659,2592081,141255,12198,1997578
+0100000US,,United States,4461,Health and personal care stores,99,Total,2007,88452,234026783,28414937,1068186,145544,3382958
+0100000US,,United States,4471,Gasoline stations,99,Total,2007,118756,450413061,14670825,890829,10131,1552957
+0100000US,,United States,4481,Clothing stores,99,Total,2007,99425,158048258,19266582,1273140,90229,3729464
+0100000US,,United States,4482,Shoe stores,99,Total,2007,28076,26509421,3233039,207945,5323,319393
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",99,Total,2007,28967,31089498,4355660,162940,45970,1895781
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",99,Total,2007,41784,59762462,7073446,440573,60871,2973799
+0100000US,,United States,4512,Book stores and news dealers,99,Total,2007,15631,21321853,2392473,178502,29030,909112
+0100000US,,United States,4521,Department stores,99,Total,2007,8534,209391428,22212882,1224454,N,N
+0100000US,,United States,4529,Other general merchandise stores,99,Total,2007,37321,367706767,32200673,1539020,N,N
+0100000US,,United States,4531,Florists,99,Total,2007,19822,6285503,1400307,93967,25609,991405
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",99,Total,2007,40949,38995623,4900535,306051,66009,2383894
+0100000US,,United States,4533,Used merchandise stores,99,Total,2007,17994,9379697,2159158,131901,59716,1747248
+0100000US,,United States,4539,Other miscellaneous store retailers,99,Total,2007,43146,49407398,5937730,260186,145049,8656029
+0100000US,,United States,4541,Electronic shopping and mail-order houses,99,Total,2007,21877,220656247,14652223,352187,84188,3226894
+0100000US,,United States,4542,Vending machine operators,99,Total,2007,5194,6993135,1361975,50811,29005,899707
+0100000US,,United States,4543,Direct selling establishments,99,Total,2007,32304,61876658,7313636,217794,743208,15483148
+0100000US,,United States,4811(101),Scheduled air transportation(101),99,Total,2007,3129,133196227,23609964,438375,N,N
+0100000US,,United States,4812,Nonscheduled air transportation,99,Total,2007,2532,13416232,2510031,39782,N,N
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",99,Total,2007,1126,28512770,3485938,56398,N,N
+0100000US,,United States,4832,Inland water transportation,99,Total,2007,595,5934024,1058542,19599,N,N
+0100000US,,United States,4841,General freight trucking,99,Total,2007,66451,142507633,39844650,999075,489206,43816264
+0100000US,,United States,4842,Specialized freight trucking,99,Total,2007,53939,75325825,18421650,508848,53303,4111076
+0100000US,,United States,4851,Urban transit systems,99,Total,2007,927,2806842,1751493,49023,1153,42550
+0100000US,,United States,4852,Interurban and rural bus transportation,99,Total,2007,566,1663484,457553,17880,1700,76946
+0100000US,,United States,4853,Taxi and limousine service,99,Total,2007,7235,5913946,1582183,74144,161436,5270033
+0100000US,,United States,4854,School and employee bus transportation,99,Total,2007,4501,10074465,3883496,210777,7216,202341
+0100000US,,United States,4855,Charter bus industry,99,Total,2007,1326,2487450,751774,31741,3827,193500
+0100000US,,United States,4859,Other transit and ground passenger transportation,99,Total,2007,3236,3518424,1417976,61360,26759,973227
+0100000US,,United States,4861,Pipeline transportation of crude oil,99,Total,2007,395,3958822,615669,6551,N,N
+0100000US,,United States,4862,Pipeline transportation of natural gas,99,Total,2007,1514,17171552,2113954,24202,N,N
+0100000US,,United States,4869,Other pipeline transportation,99,Total,2007,620,4587393,489122,6211,N,N
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",99,Total,2007,629,807838,228660,9671,N,N
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",99,Total,2007,1740,1270714,349852,12692,N,N
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",99,Total,2007,173,369046,74826,2023,N,N
+0100000US,,United States,4881,Support activities for air transportation,99,Total,2007,5658,18422464,6188597,171076,N,N
+0100000US,,United States,4882,Support activities for rail transportation,99,Total,2007,1017,2836559,1021994,27718,N,N
+0100000US,,United States,4883,Support activities for water transportation,99,Total,2007,2440,12127507,3338283,68396,N,N
+0100000US,,United States,4884,Support activities for road transportation,99,Total,2007,9788,6465558,2159020,76183,N,N
+0100000US,,United States,4885,Freight transportation arrangement,99,Total,2007,21809,45093706,11409502,248260,N,N
+0100000US,,United States,4889,Other support activities for transportation,99,Total,2007,1418,1650526,461380,16752,N,N
+0100000US,,United States,4921,Couriers and express delivery services,99,Total,2007,8670,74391846,19526257,519845,N,N
+0100000US,,United States,4922,Local messengers and local delivery,99,Total,2007,4334,3484868,904365,37350,N,N
+0100000US,,United States,4931,Warehousing and storage,99,Total,2007,13938,21920686,25526342,720451,8318,541735
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",99,Total,2007,22683,146822683,34504314,706102,N,N
+0100000US,,United States,5112,Software publishers,99,Total,2007,8275,135400841,46362593,386945,N,N
+0100000US,,United States,5121,Motion picture and video industries,99,Total,2007,20164,79797053,15493750,308740,57879,2168113
+0100000US,,United States,5122,Sound recording industries,99,Total,2007,3727,15188638,2141738,27067,20194,540441
+0100000US,,United States,5151,Radio and television broadcasting,99,Total,2007,9471,54993717,14325516,249339,N,N
+0100000US,,United States,5152,Cable and other subscription programming,99,Total,2007,717,44925687,3750809,45537,N,N
+0100000US,,United States,5171,Wired telecommunications carriers,99,Total,2007,33548,290781042,54191537,885429,N,N
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),99,Total,2007,11973,170583541,16201245,288614,N,N
+0100000US,,United States,5174,Satellite telecommunications,99,Total,2007,823,4449919,792784,10146,N,N
+0100000US,,United States,5179,Other telecommunications,99,Total,2007,5655,25309439,4215510,66804,N,N
+0100000US,,United States,5182,"Data processing, hosting, and related services",99,Total,2007,17129,66651853,26428444,393741,41547,1225248
+0100000US,,United States,5191,Other information services,99,Total,2007,7401,37438443,10428347,128309,57346,2288357
+0100000US,,United States,5211,Monetary authorities - central bank,99,Total,2007,47(r),44967000(r),1338898(r),19062(r),N,N
+0100000US,,United States,5221,Depository credit intermediation,99,Total,2007,125433,759781856,117552337,2143597,7593,227962
+0100000US,,United States,5222,Nondepository credit intermediation,99,Total,2007,54660,513274515,47390477,774337,31692,2376474
+0100000US,,United States,5223,Activities related to credit intermediation,99,Total,2007,51346,70286514,15961558,362117,53390,1986124
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,99,Total,2007,37478,371499600,92731276,460309,32649,5495858
+0100000US,,United States,5232,Securities and commodity exchanges,99,Total,2007,29,D,D,i,1896,577662
+0100000US,,United States,5239,Other financial investment activities,99,Total,2007,47968,D,D,m,247130,23544181
+0100000US,,United States,5241,Insurance carriers,99,Total,2007,34108,1522579527,103857571,1497402,2935,189216
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",99,Total,2007,150644,146905317,50010311,926081,386241,19953679
+0100000US,,United States,5311,Lessors of real estate,99,Total,2007,121296,180650546,18952487,541676,780028,102824839
+0100000US,,United States,5312,Offices of real estate agents and brokers,99,Total,2007,109472,84358267,15976628,355215,790738,31459521
+0100000US,,United States,5313,Activities related to real estate,99,Total,2007,85962,65428591,26417925,632085,672755,42242090
+0100000US,,United States,5321,Automotive equipment rental and leasing,99,Total,2007,13189,44982246,6209260,190260,20336,1057129
+0100000US,,United States,5322,Consumer goods rental,99,Total,2007,32956,24750699,5485765,248464,18453,898250
+0100000US,,United States,5323,General rental centers,99,Total,2007,4730,4248965,870125,29810,3944,348052
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,99,Total,2007,14245,47703110,8558309,161590,39105,4280046
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),99,Total,2007,2447,32936173,2294365,29379,1698,154151
+0100000US,,United States,5411,Legal services,A,All establishments,2007,191102,239397140,89090011,1203763,255983,15743919
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,2007,188866,236688833,87720468,1176389,N,N
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,2007,2236,2708307,1369543,27374,N,N
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,2007,123366,114109492,52522525,1375685,355047,8103135
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,2007,123366,114109492,52522525,1375685,N,N
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,2007,116090,254201181,97559516,1432209,232376,11419883
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,2007,116090,254201181,97559516,1432209,N,N
+0100000US,,United States,5414,Specialized design services,A,All establishments,2007,33337,20554627,6372385,122764,200656,7441415
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,2007,33337,20554627,6372385,122764,N,N
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,2007,118081,244389132,94988258,1252197,297544,13101965
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,2007,118081,244389132,94988258,1252197,N,N
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,2007,137063,139804518,54662910,770340,641841,29011372
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,2007,137063,139804518,54662910,770340,N,N
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,2007,16169,94517652,61509465,690097,35450,1196464
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,2007,13520,66656541,50770059,525361,N,N
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,2007,2649,27861111,10739406,164736,N,N
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,2007,40654,87434205,26128831,447797,128518,6947849
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,2007,40654,87434205,26128831,447797,N,N
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,2007,71630,56595557,19240430,575562,881113,37420054
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,2007,71630,56595557,19240430,575562,N,N
+0100000US,,United States,5511,Management of companies and enterprises,99,Total,2007,51451,104442966,249510832,2664203,N,N
+0100000US,,United States,5611,Office administrative services,99,Total,2007,29604,39295497,17798898,369211,198300,3191264
+0100000US,,United States,5612,Facilities support services,99,Total,2007,5855,25734653,11193796,265262,24128,770825
+0100000US,,United States,5613,Employment services,99,Total,2007,53097,209690293,150104330,5305054,40480,1389107
+0100000US,,United States,5614,Business support services,99,Total,2007,36495,62296925,23808555,826476,224426,5968707
+0100000US,,United States,5615,Travel arrangement and reservation services,99,Total,2007,22595,37111754,12408762,258329,43076,1728636
+0100000US,,United States,5616,Investigation and security services,99,Total,2007,25249,40905381,19844439,788766,99298,1729676
+0100000US,,United States,5617,Services to buildings and dwellings,99,Total,2007,179530,103363377,38918779,1723943,1046770,20625421
+0100000US,,United States,5619,Other support services,99,Total,2007,21080,37185496,10524971,327709,94576,2876202
+0100000US,,United States,5621,Waste collection,99,Total,2007,10097,40462328,8365079,195638,N,N
+0100000US,,United States,5622,Waste treatment and disposal,99,Total,2007,2600,14264648,3245575,63558,N,N
+0100000US,,United States,5629,Remediation and other waste management services,99,Total,2007,9090,20460739,5236863,127009,N,N
+0100000US,,United States,6114,Business schools and computer and management training,A,All establishments,2007,8350,10037128,3342682,64987,N,N
+0100000US,,United States,6114,Business schools and computer and management training,T,Establishments subject to federal income tax,2007,7259,8492254,2886674,54525,N,N
+0100000US,,United States,6114,Business schools and computer and management training,Y,Establishments exempt from federal income tax,2007,1091,1544874,456008,10462,N,N
+0100000US,,United States,6115,Technical and trade schools,A,All establishments,2007,8124,10629854,3441639,105520,N,N
+0100000US,,United States,6115,Technical and trade schools,T,Establishments subject to federal income tax,2007,6280,8593393,2780813,82583,N,N
+0100000US,,United States,6115,Technical and trade schools,Y,Establishments exempt from federal income tax,2007,1844,2036461,660826,22937,N,N
+0100000US,,United States,6116,Other schools and instruction,A,All establishments,2007,38186,15520887,4969673,304151,N,N
+0100000US,,United States,6116,Other schools and instruction,T,Establishments subject to federal income tax,2007,31435,11890506,3686238,235078,N,N
+0100000US,,United States,6116,Other schools and instruction,Y,Establishments exempt from federal income tax,2007,6751,3630381,1283435,69073,N,N
+0100000US,,United States,6117,Educational support services,A,All establishments,2007,6725,8792787,2505115,65293,N,N
+0100000US,,United States,6117,Educational support services,T,Establishments subject to federal income tax,2007,4816,3534506,1217824,35318,N,N
+0100000US,,United States,6117,Educational support services,Y,Establishments exempt from federal income tax,2007,1909,5258281,1287291,29975,N,N
+0100000US,,United States,6211,Offices of physicians,A,All establishments,2007,220131,336281858,147214296,2109762,186756,16250065
+0100000US,,United States,6211,Offices of physicians,T,Establishments subject to federal income tax,2007,220131,336281858,147214296,2109762,N,N
+0100000US,,United States,6212,Offices of dentists,A,All establishments,2007,127057,93930384,34324956,825447,39455,2889567
+0100000US,,United States,6212,Offices of dentists,T,Establishments subject to federal income tax,2007,127057,93930384,34324956,825447,N,N
+0100000US,,United States,6213,Offices of other health practitioners,A,All establishments,2007,125063,50318320,19352123,614836,359312,14552146
+0100000US,,United States,6213,Offices of other health practitioners,T,Establishments subject to federal income tax,2007,125063,50318320,19352123,614836,N,N
+0100000US,,United States,6214,Outpatient care centers,A,All establishments,2007,29776,74091852,27671921,655149,12736,1044670
+0100000US,,United States,6214,Outpatient care centers,T,Establishments subject to federal income tax,2007,16702,35833058,10758539,254224,N,N
+0100000US,,United States,6214,Outpatient care centers,Y,Establishments exempt from federal income tax,2007,13074,38258794,16913382,400925,N,N
+0100000US,,United States,6215,Medical and diagnostic laboratories,A,All establishments,2007,13106,40077711,13006596,241003,20090,1218566
+0100000US,,United States,6215,Medical and diagnostic laboratories,T,Establishments subject to federal income tax,2007,13106,40077711,13006596,241003,N,N
+0100000US,,United States,6216,Home health care services,A,All establishments,2007,23070,47617015,23787589,984164,217837,3906554
+0100000US,,United States,6216,Home health care services,T,Establishments subject to federal income tax,2007,20166,32614312,16583995,764731,N,N
+0100000US,,United States,6216,Home health care services,Y,Establishments exempt from federal income tax,2007,2904,15002703,7203594,219433,N,N
+0100000US,,United States,6219,Other ambulatory health care services,A,All establishments,2007,9358,26136069,9353572,273080,46988,1707808
+0100000US,,United States,6219,Other ambulatory health care services,T,Establishments subject to federal income tax,2007,6570,15686276,5928247,174937,N,N
+0100000US,,United States,6219,Other ambulatory health care services,Y,Establishments exempt from federal income tax,2007,2788,10449793,3425325,98143,N,N
+0100000US,,United States,6221,General medical and surgical hospitals,A,All establishments,2007,5102,657318093,244332890,5077619,N,N
+0100000US,,United States,6221,General medical and surgical hospitals,T,Establishments subject to federal income tax,2007,828,67123652,20935808,476596,N,N
+0100000US,,United States,6221,General medical and surgical hospitals,Y,Establishments exempt from federal income tax,2007,4274,590194441,223397082,4601023,N,N
+0100000US,,United States,6222,Psychiatric and substance abuse hospitals,A,All establishments,2007,569,17189050,9254785,217513,N,N
+0100000US,,United States,6222,Psychiatric and substance abuse hospitals,T,Establishments subject to federal income tax,2007,202,3468311,1427459,41502,N,N
+0100000US,,United States,6222,Psychiatric and substance abuse hospitals,Y,Establishments exempt from federal income tax,2007,367,13720739,7827326,176011,N,N
+0100000US,,United States,6223,Specialty (except psychiatric and substance abuse) hospitals,A,All establishments,2007,834,28452657,11389674,233711,N,N
+0100000US,,United States,6223,Specialty (except psychiatric and substance abuse) hospitals,T,Establishments subject to federal income tax,2007,559,10239099,3385004,83801,N,N
+0100000US,,United States,6223,Specialty (except psychiatric and substance abuse) hospitals,Y,Establishments exempt from federal income tax,2007,275,18213558,8004670,149910,N,N
+0100000US,,United States,6231,Nursing care facilities,A,All establishments,2007,16320,92516564,41657415,1591190,N,N
+0100000US,,United States,6231,Nursing care facilities,T,Establishments subject to federal income tax,2007,13304,70138838,30905783,1204009,N,N
+0100000US,,United States,6231,Nursing care facilities,Y,Establishments exempt from federal income tax,2007,3016,22377726,10751632,387181,N,N
+0100000US,,United States,6232,"Residential mental retardation, mental health and substance abuse facilities",A,All establishments,2007,33113,26966946,13283282,594679,N,N
+0100000US,,United States,6232,"Residential mental retardation, mental health and substance abuse facilities",T,Establishments subject to federal income tax,2007,11464,7946663,3617174,179408,N,N
+0100000US,,United States,6232,"Residential mental retardation, mental health and substance abuse facilities",Y,Establishments exempt from federal income tax,2007,21649,19020283,9666108,415271,N,N
+0100000US,,United States,6233,Community care facilities for the elderly,A,All establishments,2007,20831,41237824,15617813,732560,N,N
+0100000US,,United States,6233,Community care facilities for the elderly,T,Establishments subject to federal income tax,2007,16666,22065659,8117140,413120,N,N
+0100000US,,United States,6233,Community care facilities for the elderly,Y,Establishments exempt from federal income tax,2007,4165,19172165,7500673,319440,N,N
+0100000US,,United States,6239,Other residential care facilities,A,All establishments,2007,6131,8338523,4011012,152264,N,N
+0100000US,,United States,6239,Other residential care facilities,T,Establishments subject to federal income tax,2007,1542,1252662,508915,24997,N,N
+0100000US,,United States,6239,Other residential care facilities,Y,Establishments exempt from federal income tax,2007,4589,7085861,3502097,127267,N,N
+0100000US,,United States,6241,Individual and family services,A,All establishments,2007,57437,63062052,24953615,1166042,121633,2242313
+0100000US,,United States,6241,Individual and family services,T,Establishments subject to federal income tax,2007,17741,11602622,5760362,343581,N,N
+0100000US,,United States,6241,Individual and family services,Y,Establishments exempt from federal income tax,2007,39696,51459430,19193253,822461,N,N
+0100000US,,United States,6242,"Community food and housing, and emergency and other relief services",A,All establishments,2007,13985,23520393,4391764,164216,5766,100754
+0100000US,,United States,6242,"Community food and housing, and emergency and other relief services",T,Establishments subject to federal income tax,2007,650,382149,131068,5127,N,N
+0100000US,,United States,6242,"Community food and housing, and emergency and other relief services",Y,Establishments exempt from federal income tax,2007,13335,23138244,4260696,159089,N,N
+0100000US,,United States,6243,Vocational rehabilitation services,A,All establishments,2007,7631,11535590,5164772,303713,10862,259899
+0100000US,,United States,6243,Vocational rehabilitation services,T,Establishments subject to federal income tax,2007,1777,1699564,758511,29778,N,N
+0100000US,,United States,6243,Vocational rehabilitation services,Y,Establishments exempt from federal income tax,2007,5854,9836026,4406261,273935,N,N
+0100000US,,United States,6244,Child day care services,A,All establishments,2007,75112,29685907,13951863,855126,691289,8936478
+0100000US,,United States,6244,Child day care services,T,Establishments subject to federal income tax,2007,53592,17733433,8171751,535467,N,N
+0100000US,,United States,6244,Child day care services,Y,Establishments exempt from federal income tax,2007,21520,11952474,5780112,319659,N,N
+0100000US,,United States,7111,Performing arts companies,A,All establishments,2007,8838,13573780,3979787,127648,53446,1132418
+0100000US,,United States,7111,Performing arts companies,T,Establishments subject to federal income tax,2007,4899,8001509,1971822,53728,N,N
+0100000US,,United States,7111,Performing arts companies,Y,Establishments exempt from federal income tax,2007,3939,5572271,2007965,73920,N,N
+0100000US,,United States,7112,Spectator sports,A,All establishments,2007,4237,30403066,14136103,121461,141567,2531910
+0100000US,,United States,7112,Spectator sports,T,Establishments subject to federal income tax,2007,4237,30403066,14136103,121461,N,N
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",A,All establishments,2007,6647,16122434,2957275,121395,39790,1583652
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",T,Establishments subject to federal income tax,2007,4101,12212984,2092339,85595,N,N
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",Y,Establishments exempt from federal income tax,2007,2546,3909450,864936,35800,N,N
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",A,All establishments,2007,3534,4918537,1694012,18676,33757,1294157
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",T,Establishments subject to federal income tax,2007,3534,4918537,1694012,18676,N,N
+0100000US,,United States,7115,"Independent artists, writers, and performers",A,All establishments,2007,20612,12754733,5071563,48321,698856,14298686
+0100000US,,United States,7115,"Independent artists, writers, and performers",T,Establishments subject to federal income tax,2007,20612,12754733,5071563,48321,N,N
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",A,All establishments,2007,7125,13285398,3661655,130071,6235,103256
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",T,Establishments subject to federal income tax,2007,869,1007272,277295,11523,N,N
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",Y,Establishments exempt from federal income tax,2007,6256,12278126,3384360,118548,N,N
+0100000US,,United States,7131,Amusement parks and arcades,A,All establishments,2007,3145,13544300,2802120,133993,5458,329904
+0100000US,,United States,7131,Amusement parks and arcades,T,Establishments subject to federal income tax,2007,3145,13544300,2802120,133993,N,N
+0100000US,,United States,7132,Gambling industries,A,All establishments,2007,2327,25134654,4566176,169640,10429,1277926
+0100000US,,United States,7132,Gambling industries,T,Establishments subject to federal income tax,2007,2327,25134654,4566176,169640,N,N
+0100000US,,United States,7139,Other amusement and recreation industries,A,All establishments,2007,68155,59680040,19490413,1190143,130048,4804791
+0100000US,,United States,7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,2007,56932,43980924,13304523,853932,N,N
+0100000US,,United States,7139,Other amusement and recreation industries,Y,Establishments exempt from federal income tax,2007,11223,15699116,6185890,336211,N,N
+0100000US,,United States,7211,Traveler accommodation,99,Total,2007,53103,175183663,45138911,1919638,35110,2855481
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,99,Total,2007,7420,4396300,1090655,39939,6954,364316
+0100000US,,United States,7213,Rooming and boarding houses,99,Total,2007,2217,811242,163721,11084,12646,372062
+0100000US,,United States,7221,Full-service restaurants,99,Total,2007,220089,192258833,63259045,4603747,40366,4005179
+0100000US,,United States,7222,Limited-service eating places,99,Total,2007,269155,182948752,46100068,4082091,49349,3455712
+0100000US,,United States,7223,Special food services,99,Total,2007,35453,39878874,10890948,588058,132558,3351902
+0100000US,,United States,7224,Drinking places (alcoholic beverages),99,Total,2007,46924,18318068,4183499,356194,26499,1666436
+0100000US,,United States,8111,Automotive repair and maintenance,A,All establishments,2007,165552,85887165,24617678,877395,305082,14634213
+0100000US,,United States,8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,2007,165552,85887165,24617678,877395,N,N
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,A,All establishments,2007,13021,19327067,5645392,124676,47755,1718535
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,2007,13021,19327067,5645392,124676,N,N
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,A,All establishments,2007,22749,25961742,7754468,181534,54933,2977430
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,T,Establishments subject to federal income tax,2007,22749,25961742,7754468,181534,N,N
+0100000US,,United States,8114,Personal and household goods repair and maintenance,A,All establishments,2007,20829,6556642,2052375,77478,296618,8852505
+0100000US,,United States,8114,Personal and household goods repair and maintenance,T,Establishments subject to federal income tax,2007,20829,6556642,2052375,77478,N,N
+0100000US,,United States,8121,Personal care services,A,All establishments,2007,112791,26304723,10530272,613307,911181,20660794
+0100000US,,United States,8121,Personal care services,T,Establishments subject to federal income tax,2007,112791,26304723,10530272,613307,N,N
+0100000US,,United States,8122,Death care services,A,All establishments,2007,21400,15292794,4190238,138013,15846,856208
+0100000US,,United States,8122,Death care services,T,Establishments subject to federal income tax,2007,21400,15292794,4190238,138013,N,N
+0100000US,,United States,8123,Drycleaning and laundry services,A,All establishments,2007,39989,23233640,7517070,346067,34544,2004461
+0100000US,,United States,8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,2007,39989,23233640,7517070,346067,N,N
+0100000US,,United States,8129,Other personal services,A,All establishments,2007,35971,17273764,4521382,240152,1092513,25760173
+0100000US,,United States,8129,Other personal services,T,Establishments subject to federal income tax,2007,35971,17273764,4521382,240152,N,N
+0100000US,,United States,8132,Grantmaking and giving services,A,All establishments,2007,17067,93275924,7912767,165715,N,N
+0100000US,,United States,8132,Grantmaking and giving services,Y,Establishments exempt from federal income tax,2007,17067,93275924,7912767,165715,N,N
+0100000US,,United States,8133,Social advocacy organizations,A,All establishments,2007,15520,19729651,4841777,130831,N,N
+0100000US,,United States,8133,Social advocacy organizations,Y,Establishments exempt from federal income tax,2007,15520,19729651,4841777,130831,N,N
+0100000US,,United States,8134,Civic and social organizations,A,All establishments,2007,30403,15443522,4329378,256654,N,N
+0100000US,,United States,8134,Civic and social organizations,Y,Establishments exempt from federal income tax,2007,30403,15443522,4329378,256654,N,N
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",A,All establishments,2007,44856,56997414,15210472,327189,N,N
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",Y,Establishments exempt from federal income tax,2007,44856,56997414,15210472,327189,N,N
+0500000US06031,06031,"Kings County, California",3114,Fruit and vegetable preserving and specialty food manufacturing,99,Total,2007,3,D,49121,1200,N,N
+0500000US06031,06031,"Kings County, California",3115,Dairy product manufacturing,99,Total,2007,3,D,D,g,D,D
+0500000US06031,06031,"Kings County, California",4249,Miscellaneous nondurable goods merchant wholesalers,10,"Merchant wholesalers, except manufacturers' sales branches and offices",2007,17,D,D,e,N,N
+0500000US06031,06031,"Kings County, California",4411,Automobile dealers,99,Total,2007,11,D,D,c,16,3104
+0500000US06031,06031,"Kings County, California",4412,Other motor vehicle dealers,99,Total,2007,2,D,D,b,7,234
+0500000US06031,06031,"Kings County, California",4413,"Automotive parts, accessories, and tire stores",99,Total,2007,32,D,D,c,6,554
+0500000US06031,06031,"Kings County, California",4421,Furniture stores,99,Total,2007,11,9723,1524,58,3,401
+0500000US06031,06031,"Kings County, California",4422,Home furnishings stores,99,Total,2007,5,9068,2325,52,4,95
+0500000US06031,06031,"Kings County, California",4431,Electronics and appliance stores,99,Total,2007,14,10637,1221,86,8,1317
+0500000US06031,06031,"Kings County, California",4441,Building material and supplies dealers,99,Total,2007,21,77318,8288,346,D,D
+0500000US06031,06031,"Kings County, California",4442,Lawn and garden equipment and supplies stores,99,Total,2007,7,31356,2357,72,6,435
+0500000US06031,06031,"Kings County, California",4451,Grocery stores,99,Total,2007,39,216665,18023,754,18,3078
+0500000US06031,06031,"Kings County, California",4452,Specialty food stores,99,Total,2007,6,1922,305,26,12,1282
+0500000US06031,06031,"Kings County, California",4461,Health and personal care stores,99,Total,2007,23,67936,7933,259,39,630
+0500000US06031,06031,"Kings County, California",4471,Gasoline stations,99,Total,2007,30,138699,3714,209,D,D
+0500000US06031,06031,"Kings County, California",4481,Clothing stores,99,Total,2007,34,39809,4505,334,23,644
+0500000US06031,06031,"Kings County, California",4483,"Jewelry, luggage, and leather goods stores",99,Total,2007,14,D,D,b,12,377
+0500000US06031,06031,"Kings County, California",4511,"Sporting goods, hobby, and musical instrument stores",99,Total,2007,10,D,D,c,16,906
+0500000US06031,06031,"Kings County, California",4512,Book stores and news dealers,99,Total,2007,3,D,D,b,8,87
+0500000US06031,06031,"Kings County, California",4529,Other general merchandise stores,99,Total,2007,8,D,D,f,N,N
+0500000US06031,06031,"Kings County, California",4532,"Office supplies, stationery, and gift stores",99,Total,2007,6,D,D,b,14,456
+0500000US06031,06031,"Kings County, California",4539,Other miscellaneous store retailers,99,Total,2007,13,10003,1388,85,25,1854
+0500000US06031,06031,"Kings County, California",5121,Motion picture and video industries,99,Total,2007,3,N,D,b,4,45
+0500000US06031,06031,"Kings County, California",5311,Lessors of real estate,99,Total,2007,46,28500,2988,171,74,7486
+0500000US06031,06031,"Kings County, California",5312,Offices of real estate agents and brokers,99,Total,2007,13,5278,588,28,144,5250
+0500000US06031,06031,"Kings County, California",5313,Activities related to real estate,99,Total,2007,20,8228,1088,52,85,3591
+0500000US06031,06031,"Kings County, California",5322,Consumer goods rental,99,Total,2007,11,9123,1560,69,6,77
+0500000US06031,06031,"Kings County, California",5411,Legal services,A,All establishments,2007,19,D,D,c,36,1641
+0500000US06031,06031,"Kings County, California",5411,Legal services,T,Establishments subject to federal income tax,2007,19,D,D,c,N,N
+0500000US06031,06031,"Kings County, California",5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,2007,27,10750,4118,197,84,1656
+0500000US06031,06031,"Kings County, California",5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,2007,27,10750,4118,197,N,N
+0500000US06031,06031,"Kings County, California",5413,"Architectural, engineering, and related services",A,All establishments,2007,14,15106,5122,91,D,D
+0500000US06031,06031,"Kings County, California",5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,2007,14,15106,5122,91,N,N
+0500000US06031,06031,"Kings County, California",5419,"Other professional, scientific, and technical services",A,All establishments,2007,10,D,D,b,116,4708
+0500000US06031,06031,"Kings County, California",5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,2007,10,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",5614,Business support services,99,Total,2007,4,3599,1657,65,37,512
+0500000US06031,06031,"Kings County, California",5617,Services to buildings and dwellings,99,Total,2007,28,9291,3254,152,291,6743
+0500000US06031,06031,"Kings County, California",5622,Waste treatment and disposal,99,Total,2007,2,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",5629,Remediation and other waste management services,99,Total,2007,2,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",6115,Technical and trade schools,A,All establishments,2007,4,5373,1846,48,N,N
+0500000US06031,06031,"Kings County, California",6115,Technical and trade schools,T,Establishments subject to federal income tax,2007,4,5373,1846,48,N,N
+0500000US06031,06031,"Kings County, California",6116,Other schools and instruction,A,All establishments,2007,10,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",6116,Other schools and instruction,T,Establishments subject to federal income tax,2007,8,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",6211,Offices of physicians,A,All establishments,2007,70,55869,24556,477,54,6816
+0500000US06031,06031,"Kings County, California",6211,Offices of physicians,T,Establishments subject to federal income tax,2007,70,55869,24556,477,N,N
+0500000US06031,06031,"Kings County, California",6212,Offices of dentists,A,All establishments,2007,35,27496,10583,292,11,723
+0500000US06031,06031,"Kings County, California",6212,Offices of dentists,T,Establishments subject to federal income tax,2007,35,27496,10583,292,N,N
+0500000US06031,06031,"Kings County, California",6213,Offices of other health practitioners,A,All establishments,2007,26,D,D,c,46,1534
+0500000US06031,06031,"Kings County, California",6213,Offices of other health practitioners,T,Establishments subject to federal income tax,2007,26,D,D,c,N,N
+0500000US06031,06031,"Kings County, California",6214,Outpatient care centers,A,All establishments,2007,14,25010,11764,296,N,N
+0500000US06031,06031,"Kings County, California",6214,Outpatient care centers,T,Establishments subject to federal income tax,2007,5,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",6214,Outpatient care centers,Y,Establishments exempt from federal income tax,2007,9,D,D,c,N,N
+0500000US06031,06031,"Kings County, California",6241,Individual and family services,A,All establishments,2007,14,D,D,f,20,537
+0500000US06031,06031,"Kings County, California",6241,Individual and family services,Y,Establishments exempt from federal income tax,2007,13,D,D,f,N,N
+0500000US06031,06031,"Kings County, California",7132,Gambling industries,A,All establishments,2007,1,D,D,e,D,D
+0500000US06031,06031,"Kings County, California",7132,Gambling industries,T,Establishments subject to federal income tax,2007,1,D,D,e,N,N
+0500000US06031,06031,"Kings County, California",7139,Other amusement and recreation industries,A,All establishments,2007,12,D,D,c,25,1019
+0500000US06031,06031,"Kings County, California",7139,Other amusement and recreation industries,T,Establishments subject to federal income tax,2007,9,D,D,c,N,N
+0500000US06031,06031,"Kings County, California",7139,Other amusement and recreation industries,Y,Establishments exempt from federal income tax,2007,3,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",7211,Traveler accommodation,99,Total,2007,16,D,D,g,4,198
+0500000US06031,06031,"Kings County, California",7222,Limited-service eating places,99,Total,2007,98,81637,19970,1777,16,770
+0500000US06031,06031,"Kings County, California",8111,Automotive repair and maintenance,A,All establishments,2007,45,21856,5137,172,106,5454
+0500000US06031,06031,"Kings County, California",8111,Automotive repair and maintenance,T,Establishments subject to federal income tax,2007,45,21856,5137,172,N,N
+0500000US06031,06031,"Kings County, California",8112,Electronic and precision equipment repair and maintenance,A,All establishments,2007,2,D,D,b,18,939
+0500000US06031,06031,"Kings County, California",8112,Electronic and precision equipment repair and maintenance,T,Establishments subject to federal income tax,2007,2,D,D,b,N,N
+0500000US06031,06031,"Kings County, California",8121,Personal care services,A,All establishments,2007,15,2783,984,79,291,6500
+0500000US06031,06031,"Kings County, California",8121,Personal care services,T,Establishments subject to federal income tax,2007,15,2783,984,79,N,N
+0500000US06031,06031,"Kings County, California",8123,Drycleaning and laundry services,A,All establishments,2007,5,1768,639,46,8,294
+0500000US06031,06031,"Kings County, California",8123,Drycleaning and laundry services,T,Establishments subject to federal income tax,2007,5,1768,639,46,N,N
